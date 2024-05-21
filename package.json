@@ -14,5 +14,13 @@
   },
   "dependencies": {
     "express": "^4.19.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19Vin70/food-menu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/19Vin70/food-menu/issues"
+  },
+  "homepage": "https://github.com/19Vin70/food-menu#readme"
 }
