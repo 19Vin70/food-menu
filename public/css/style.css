@@ -32,6 +32,7 @@ header {
     padding: 20px;
     backdrop-filter: blur(5px);
     border-bottom: 1px solid #ccc;
+    z-index: 99;
 }
 
 .header .logo {
@@ -71,6 +72,7 @@ header {
     margin: 0 auto;
     padding: 5px;
     border-radius: 5px;
+    background: #fff;
 }
 
 .container .searchbar input {
@@ -108,6 +110,7 @@ header {
     border: 1px solid #ccc;
     border-radius: 10px;
     overflow: hidden;
+    background: #fff;
 }
 
 .container .food-list .food-item img {
