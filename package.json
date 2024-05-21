@@ -1,0 +1,18 @@
+{
+  "name": "food-menu",
+  "version": "1.0.0",
+  "description": "This is a food menu website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Marvin Quillo Saik",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
